@@ -12,4 +12,6 @@ A new Flutter application.
 
 5. add flutter to path
 
-6. run "flutter run --release"  
+6. run "flutter run --release"
+
+7. Make sure to have active internet connection.
