@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223441231778",
+    "firebase_url": "https://bobblebigmauji.firebaseio.com",
+    "project_id": "bobblebigmauji",
+    "storage_bucket": "bobblebigmauji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223441231778:android:f01459eb13875548a4dcfb",
+        "android_client_info": {
+          "package_name": "com.example.bobble_bigmauji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223441231778-balajrt88jags7g5u5l2rv471mp19gud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeP7WSgaNx2fIA_z0cWmyXCb51IlbB66I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223441231778-balajrt88jags7g5u5l2rv471mp19gud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
